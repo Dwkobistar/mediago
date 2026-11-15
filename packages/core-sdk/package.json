@@ -1,16 +1,16 @@
 {
   "name": "@mediago/core-sdk",
   "version": "0.0.4",
-  "description": "A starter for creating a TypeScript package.",
+  "description": "MediaGo core SDK - download and stream client for the MediaGo backend",
   "type": "module",
   "license": "MIT",
-  "homepage": "https://github.com/author/library#readme",
+  "homepage": "https://github.com/caorushizi/mediago",
   "bugs": {
-    "url": "https://github.com/author/library/issues"
+    "url": "https://github.com/caorushizi/mediago/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/author/library.git"
+    "url": "git+https://github.com/caorushizi/mediago.git"
   },
   "author": "caorushizi",
   "files": [
@@ -33,9 +33,7 @@
     "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
-    "@types/axios": "^0.14.4",
     "@types/node": "^26.3.0",
-    "bumpp": "^12.2.1",
     "tsdown": "^0.22.14",
     "typescript": "^7.0.2"
   },
