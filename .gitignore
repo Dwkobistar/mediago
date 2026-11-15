@@ -31,3 +31,13 @@ design-qa.md
 .pnpm-store/
 .one-run-*/
 mise.local.toml
+
+# AI coding agent artifacts
+.agents/
+AGENTS.md
+CLAUDE.md
+skills/
+skills-lock.json
+
+# Local QA reports
+design-qa*.md
