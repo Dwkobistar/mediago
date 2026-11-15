@@ -1,16 +1,16 @@
 {
   "name": "@mediago/service-runner",
   "version": "0.0.1",
-  "description": "A starter for creating a TypeScript package.",
+  "description": "MediaGo service runner - spawns and manages the Go core process",
   "type": "module",
   "license": "MIT",
-  "homepage": "https://github.com/caorushizi/node-service#readme",
+  "homepage": "https://github.com/caorushizi/mediago",
   "bugs": {
-    "url": "https://github.com/caorushizi/node-service/issues"
+    "url": "https://github.com/caorushizi/mediago/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/caorushizi/node-service.git"
+    "url": "git+https://github.com/caorushizi/mediago.git"
   },
   "author": "caorushizi <84996057@qq.com>",
   "files": [
@@ -34,7 +34,6 @@
   },
   "devDependencies": {
     "@types/node": "^26.3.0",
-    "bumpp": "^12.2.1",
     "tsdown": "^0.22.14",
     "typescript": "^7.0.2"
   },
